@@ -1,4 +1,4 @@
-# Vanilla Downloader
+# VanillaDownloader
 
 **VanillaDownloader** is a torrent client utilizing the MonoTorrent library, specifically designed for downloading and processing vanilla patches. It provides a user-friendly interface for tracking torrent progress and efficiently managing downloaded files.
 
