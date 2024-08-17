@@ -20,5 +20,5 @@
 ## Dependencies
 
 - **MonoTorrent**: For torrent management and monitoring.
-- **StormLibSharp**: C# wrappers for Ladislav Zezula's StormLib.
+- **StormLibSharp**: C# wrapper for Ladislav Zezula's StormLib.
 - **StormLib**: For handling MPQ archives.
